@@ -10,6 +10,8 @@
        - [工厂模式](md/design_pattern/工厂模式.md)
        - [抽象工厂模式](md/design_pattern/抽象工厂模式.md)
        - [单例模式](md/design_pattern/单例模式.md)
+       - [代理模式](md/design_pattern/代理模式.md)
+       - [装饰器模式](md/design_pattern/装饰器模式.md)
    
    
    ​    
