@@ -18,6 +18,9 @@
        - [适配器模式](md/design_pattern/适配器模式.md)
        - [外观模式](md/design_pattern/外观模式.md)
        - [模板模式](md/design_pattern/模板模式.md)
+       - [命令模式](md/design_pattern/命令模式.md)
+       - [策略模式](md/design_pattern/策略模式.md)
+       - [观察者模式](md/design_pattern/观察者模式.md)
    
    
    ​    
