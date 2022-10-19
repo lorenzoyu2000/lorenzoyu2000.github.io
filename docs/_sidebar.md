@@ -3,7 +3,8 @@
 - :memo: 目录
    - Go语言基础
        - [逃逸分析](md/golang/逃逸分析.md)
-   
+       - [Function Value](md/golang/Function_Value.md)
+       
    - Go设计模式
        - [单一职责原则](md/design_pattern/单一职责.md)
        - [开闭原则](md/design_pattern/开闭原则.md)
